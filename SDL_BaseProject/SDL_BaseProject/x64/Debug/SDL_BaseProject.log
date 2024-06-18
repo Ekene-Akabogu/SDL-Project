@@ -1,0 +1,3 @@
+﻿  sdl.cpp
+C:\Users\user\Documents\200 LVL - 2nd Semester\PAU CSC 212\SDL_BaseProject\sdl.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL_BaseProject.vcxproj -> C:\Users\user\Documents\200 LVL - 2nd Semester\PAU CSC 212\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe
